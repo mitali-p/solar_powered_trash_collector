@@ -1,10 +1,4 @@
-/*
- * Created by Vasilakis Michalis // 26-12-2014 ver.1
- * Project: Control RC Boat / Vessel via Bluetooth with Android Smartphone
- * http://www.ardumotive.com/arduino-boat
- * More information at www.ardumotive.com
- */
- 
+
 //L293 Connection   
   const int motorA1  = 5;  // Pin  2 of L293
   const int motorA2  = 6;  // Pin  7 of L293
